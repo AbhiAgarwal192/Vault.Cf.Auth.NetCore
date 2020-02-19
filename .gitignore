@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Vault.Cf.Auth.NetCore/v16/Server/sqlite3
+/.vs/Vault.Cf.Auth.NetCore/DesignTimeBuild
+/.vs/Vault.Cf.Auth.NetCore/v16/.suo
+/Vault.Cf.Auth.NetCore/bin/Debug/netstandard2.0
+/Vault.Cf.Auth.NetCore/obj
