@@ -7,3 +7,5 @@
 /.vs/Vault.Cf.Auth.NetCore/v16/.suo
 /Vault.Cf.Auth.NetCore/bin/Debug/netstandard2.0
 /Vault.Cf.Auth.NetCore/obj
+/Vault.Cf.Auth.NetCore/bin/Debug
+/Vault.Cf.Auth.NetCore/bin/Release

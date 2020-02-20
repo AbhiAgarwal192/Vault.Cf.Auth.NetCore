@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>AbhiAgarwal192</Copyright>
+    <Description>This contains dotnet core nuget for connecting to vault using cf auth method.</Description>
+    <PackageProjectUrl>https://github.com/AbhiAgarwal192/Vault.Cf.Auth.NetCore</PackageProjectUrl>
+    <Authors>AbhiAgarwal192</Authors>
+    <Company>AbhiAgarwal192</Company>
   </PropertyGroup>
 
   <ItemGroup>
