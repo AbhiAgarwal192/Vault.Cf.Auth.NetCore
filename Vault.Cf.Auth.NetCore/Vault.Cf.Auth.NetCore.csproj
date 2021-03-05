@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/AbhiAgarwal192/Vault.Cf.Auth.NetCore</PackageProjectUrl>
     <Authors>AbhiAgarwal192</Authors>
     <Company>AbhiAgarwal192</Company>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
